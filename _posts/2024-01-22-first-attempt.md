@@ -24,6 +24,3 @@ $$
 1. \$$ LaTeX_math_expression $$
 2. \$$ LaTeX_math_expression $$
 3. \$$ LaTeX_math_expression $$
-
-![img-description](/path/to/image)
-_Image Caption_
