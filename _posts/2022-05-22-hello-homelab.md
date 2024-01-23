@@ -44,5 +44,5 @@ sudo apt update && sudo apt upgrade
 
 ## Photos
 
-![img-description](https://pbs.twimg.com/media/FJAFshwXoAEf9HV?format=jpg&name=large)
-_My Lab_
+![img-description]([https://pbs.twimg.com/media/FJAFshwXoAEf9HV?format=jpg&name=large](https://www.thesprucepets.com/thmb/1kjJEzrw3adUl0TIOWuf24s5VPw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-909948608-5c69cd9446e0fb0001560d1a.jpg)https://www.thesprucepets.com/thmb/1kjJEzrw3adUl0TIOWuf24s5VPw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-909948608-5c69cd9446e0fb0001560d1a.jpg)
+_Nobel Horse_
