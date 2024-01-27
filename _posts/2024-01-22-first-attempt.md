@@ -11,8 +11,9 @@ comments: true
 math: true
 mermaid: true
 ---
-![Desktop View](/images/0124.jpg){: width="972" height="589" }
+![Desktop View](/images/0124.jpg){: width="452" height="279" }
 
+This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
 
 <!-- Block math, keep all blank lines -->
 $$
