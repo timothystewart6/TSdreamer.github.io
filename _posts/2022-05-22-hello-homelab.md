@@ -18,8 +18,8 @@ Welcome to my Homelab channel. Here, I share my personal experiences and  achiev
 
 In this space, I'm on a continuous learning journey, exploring and sharing insights into the ever-evolving energy industry. My focus is on understanding and utilizing data and technology to explore more efficient and environmentally friendly energy solutions. By sharing my own progress and the lessons I've learned, I hope to not only track my own growth but also to offer ideas and inspiration to others interested in renewable energy.
 
-![Desktop View](/images/111.jpg){: width="972" height="589" }
-_Hi,I am Haotian_
+![Desktop View](/images/wind-turbine.webp){: width="972" height="589" }
+_A future fueled by sustainable energy is my commitment_
 
 The content I share includes my reflections on current energy trends, my explorations into emerging renewable technologies, and the small projects I undertake to apply these technologies in practical ways. I strive to blend my growing knowledge with real-life applications, highlighting the potential of data-driven approaches in improving energy sustainability.
 

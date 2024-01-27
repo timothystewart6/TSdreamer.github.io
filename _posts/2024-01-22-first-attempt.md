@@ -7,14 +7,13 @@ tags: [weekly updates]     # TAG names should always be lowercase
   name: <Haotian MA>
   github: <TSdreamer>
   url: <tsdreamer.github.io>
-pin: true
 comments: true
 math: true
 mermaid: true
-image:
-  path: /images/0124.jpg
-
 ---
+![Desktop View](/images/0124.jpg){: width="972" height="589" }
+
+
 <!-- Block math, keep all blank lines -->
 $$
 LaTeX_math_expression
@@ -26,3 +25,8 @@ $$
 1. \$$ LaTeX_math_expression $$
 2. \$$ LaTeX_math_expression $$
 3. \$$ LaTeX_math_expression $$
+
+
+
+
+
