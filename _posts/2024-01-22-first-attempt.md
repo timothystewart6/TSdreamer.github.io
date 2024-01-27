@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: 01232024 weekly update
 date: 2024-01-23 01:13:00 +0000
 categories: [PhD Life, Weekly Update]
 tags: [weekly updates]     # TAG names should always be lowercase
