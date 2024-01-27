@@ -15,4 +15,4 @@ With over two years of experience in the energy sector, I've applied machine lea
 
 ## Contact
 
-If you'd like to connect with me, please send me an email to Haotian-ma@outlook.com!
+If you'd like to connect with me, please send me an email to [Haotian MA](mailto:Haotian-ma@outlook.com)!
