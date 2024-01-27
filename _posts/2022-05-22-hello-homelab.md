@@ -1,8 +1,13 @@
 ---
-title: Hello HomeLab
-date: 2022-05-21 12:00:00 -500
-categories: [homelab, hardware]
-tags: [servers,dell,hp,supermicro]     # TAG names should always be lowercase
+title: Welcome to my HomeLab
+date: 2024-01-27 12:00:00 -500
+<author_id>:
+  name: <Haotian MA>
+  github: <TSdreamer>
+  url: <tsdreamer.github.io>
+pin: true
+categories: [Homelab]
+tags: [Homelab,Haotian]     # TAG names should always be lowercase
 image:
   path: /images/111.jpg
 ---
@@ -38,8 +43,6 @@ I use a high-performance system that's ideally suited for demanding tasks like g
 - **Storage and Virtual Memory:** System uses a page file located at C:\pagefile.sys with a size of 4.75 GB. The total virtual memory is 36.5 GB, with 12.7 GB available.
 - **Security Features:** Includes kernel DMA protection and virtualization-based security, such as Hypervisor enforced Code Integrity.
 - **Additional Features:** The system is equipped with features for virtualization and advanced security, indicating compatibility with Hyper-V and other virtualization technologies.
-
-
 
 
 ```javascript
@@ -86,5 +89,3 @@ jobs:
 ```bash
 sudo apt update && sudo apt upgrade
 ```
-
-

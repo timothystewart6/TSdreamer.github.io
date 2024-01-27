@@ -7,10 +7,12 @@ tags: [weekly updates]     # TAG names should always be lowercase
   name: <Haotian MA>
   github: <TSdreamer>
   url: <tsdreamer.github.io>
-
+pin: true
 comments: true
 math: true
 mermaid: true
+image:
+  path: /images/0124.jpg
 
 ---
 <!-- Block math, keep all blank lines -->
