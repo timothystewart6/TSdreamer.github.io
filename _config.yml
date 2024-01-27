@@ -31,6 +31,12 @@ github:
 twitter:
   username: HaotianM57651 # change to your twitter username
 
+linkedin:
+  username: HTMa # change to your twitter username  
+
+Instagram:
+  username: kirinfly # change to your twitter username  
+
 social:
   # This website is designed and developed by Mr.Haotian MA.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -40,9 +46,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/HaotianM57651 # change to your twitter homepage
     - https://github.com/TSdreamer # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/kirinfly/
+    - https://www.linkedin.com/in/htma/
 
 google_site_verification: # fill in to your verification string
 
@@ -63,7 +68,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  [dark, light]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
