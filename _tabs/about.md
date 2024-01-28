@@ -15,12 +15,17 @@ I have a strong academic background in computer engineering, including completio
   <img src="/images/UoW.png" alt="UoW" style="width: auto; height: 120px; margin-right: 5%;" />
   <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 5%;" />
   <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 5%;"  />
-  <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 5%;" />
 </div>
 
 My bachelor's degree in engineering was obtained from [Southeast University](https://www.seu.edu.cn/english/) includes honors and multiple awards for energy projects, and finally rewarded as 2019 outstanding graduates of SEU. 
+![Desktop View](/images/SEU.png){: height="120" .w-50 .right}
 
-With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field.
+
+With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. Thanks for all of you reading my story.
+
+<div style="text-align: center; width: 100%;">
+  <img src="/images/signature.png" alt="haotian" style="width: auto; height: 120px; margin-right: 5%;" />
+</div>
 
 
 
