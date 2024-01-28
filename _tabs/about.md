@@ -7,13 +7,12 @@ order: 4
 #  Hi
 
 <div style="text-align: right;">
-  <img src="/images/UoW.jpg" alt="Desktop View" style="width: 48px; height: 29px; margin-right: 5px;" />
-  <img src="/images/UoB.jpg" alt="Desktop View" style="width: 48px; height: 29px; margin-right: 5px;" />
-  <img src="/images/UoN.png" alt="Desktop View" style="width: 48px; height: 29px; margin-right: 5px;" />
-  <img src="/images/SEU.png" alt="Desktop View" style="width: 48px; height: 29px; margin-right: 5px;" />
+  <img src="/images/mit.webp" alt="Desktop View" style="width: 60px; height: 36px; margin-right: 5px;" />
+  <img src="/images/UoW.png" alt="Desktop View" style="width: 60px; height: 36px; margin-right: 5px;" />
+  <img src="/images/UoB.png" alt="Desktop View" style="width: 60px; height: 36px; margin-right: 5px;" />
+  <img src="/images/UoN.png" alt="Desktop View" style="width: 60px; height: 36px; margin-right: 5px;" />
+  <img src="/images/SEU.png" alt="Desktop View" style="width: 60px; height: 36px; margin-right: 5px;" />
 </div>
-
-
 
 I'm Haotian MA,a doctoral researcher at the [University of Warwick](https://warwick.ac.uk/) focusing on data-driven method to acclerate the arrival of sustainable energy future.
 
