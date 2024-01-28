@@ -18,8 +18,6 @@ I have a strong academic background in computer engineering, including completio
 </div>
 
 My bachelor's degree in engineering was obtained from [Southeast University](https://www.seu.edu.cn/english/) includes honors and multiple awards for energy projects, and finally rewarded as 2019 outstanding graduates of SEU. 
-
-
 <div style="text-align: right; width: 100%;">
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px;" />
 </div>
