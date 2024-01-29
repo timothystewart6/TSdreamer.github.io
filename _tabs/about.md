@@ -20,7 +20,7 @@ I have a strong academic background in computer engineering, including completio
 My bachelor's degree in engineering was obtained from [Southeast University](https://www.seu.edu.cn/english/) includes honors and multiple awards for energy projects, and finally rewarded as 2019 outstanding graduates of SEU. 
 
 <div style="text-align: right;">
-  <img src="/images/SEU.png" alt="Desktop View" style="height: 10px; width: 10px;" />
+  <img src="/images/SEU.png" alt="Desktop View" style="height: 100px; width: auto;" />
 </div>
 
 With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
