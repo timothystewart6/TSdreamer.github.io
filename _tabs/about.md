@@ -18,17 +18,15 @@ I have a strong academic background in computer engineering, including completio
 </div>
 
 My bachelor's degree in engineering was obtained from [Southeast University](https://www.seu.edu.cn/english/) includes honors and multiple awards for energy projects, and finally rewarded as 2019 outstanding graduates of SEU. 
-![Desktop View](/images/SEU.png){: height="50" .w-50 .right}
-
+![Desktop View](/images/SEU.png){: height="40" .w-50 .right}
 
 With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
-
 
 ## Contact
 
 If you'd like to connect with me, please send me an email to [Haotian MA](mailto:Haotian-ma@outlook.com)!
 
-<div style="text-align: right; width: 100%;">
+<div style="text-align: center; width: 100%;">
   <img src="/images/signature.png" alt="haotian" style="width: auto; height: 40px; margin-right: 5%;" />
 </div>
 
