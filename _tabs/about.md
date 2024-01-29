@@ -14,7 +14,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 
 <div style="text-align: center; width: 100%;">
   <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/UoW.png" alt="UoW" style="width: auto; height: 120px; margin-right: 10%;" />
+  <img src="/images/UoW34.png" alt="UoW" style="width: auto; height: 120px; margin-right: 10%;" />
   <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 10%;" />
   <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 10%;"  />
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 10%;"  />
@@ -23,7 +23,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
 
 ## Contact
-![Desktop View](/images/signature.png){: width="auto" height="5px" .w-5 .right}
+![Desktop View](/images/signature3.png){: width="auto" height="5px" .w-5 .right}
 If you'd like to connect with me, please send me an email to [Haotian MA](mailto:Haotian-ma@outlook.com)!
 
 
