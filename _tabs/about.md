@@ -23,7 +23,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 With over two years of experience in the energy sector, I've applied machine learning algorithms to optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
 
 ## Contact
-![Desktop View](/images/signature3.png){: width="auto" height="5px" .w-5 .right}
+![Desktop View](/images/signature5.png){: width="auto" height="5px" .w-5 .right}
 If you'd like to connect with me, please send me an email to [Haotian MA](mailto:Haotian-ma@outlook.com)!
 
 
