@@ -14,7 +14,7 @@ mermaid: true
 ![Desktop View](/images/0124.jpg){: width="452" height="279" }
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
-Here has listed some latex version mathmatics expressions.
+Here has listed some latex version mathmatics expressions for testing and future use.
 
 
 
