@@ -1,4 +1,4 @@
-#  The contact options.
+# The contact options.
 
 - type: github
   icon: "fab fa-github"
@@ -19,10 +19,10 @@
   icon: 'fab fa-mastodon'   # icons powered by <https://github.com/TSdreamer/>
   url:  'https://uowhydrogen.github.io'     # Fill with your Mastodon account page, rel="me" will be applied for verification
 
-type: linkedin
+- type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/htma'    # Fill with your Linkedin homepage
 
-type: instagram
+- type: instagram
   icon: 'fab fa-instagram'
-  url:  'https://www.instagram.com/kirinfly'         # Fill with your stackoverflow homepage
+  url:  'https://www.instagram.com/kirinfly' # Fill with your Instagram homepage
