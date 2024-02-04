@@ -107,7 +107,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: TSdreamer/TSdreamer.github.io
-    repo_id: MDEwOlJlcG9zaXRvcnkyNTQ3ODQ3Nzk
+    repo_id: ''
     category: Comments
     category_id: DIC_kwDODy-1C84CSN7z
     mapping: pathname          # optional, default to 'pathname'
