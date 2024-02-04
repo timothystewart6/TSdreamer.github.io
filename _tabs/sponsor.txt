@@ -1,0 +1,30 @@
+---
+icon: fas fa-handshake
+order: 6
+---
+
+# 🤝 Help Haotian to Continue Grow !
+
+Haotian's independent work is carreied out by himself lonely,and this site is a self-hosted web.If you'd like to help Haotian grow faster,consider supporting by one of the following options:
+
+You can support me and my work directly:
+
+- [Becoming a member on Patreon](https://l.technotim.live/patreon)
+- [Sponsoring me on GitHub](https://l.technotim.live/github-sponsor)
+- [Subscribing on Twitch](https://l.technotim.live/twitch-subscribe)
+- [Becoming a member on YouTube](https://l.technotim.live/youtube-member)
+
+I also make a small commission (at no cost to you) if you use one of my affiliate links below:
+
+- [Shop at Amazon](https://amzn.to/40xIvLe)
+- [Shop at Target](https://l.technotim.live/target-free-shipping)
+- [Humble Bundle Game Store](https://l.technotim.live/humble-store)
+- [Grovemade](https://l.technotim.live/grovemade)
+- [UniFi gear from Ubiquiti](https://l.technotim.live/ubiquiti)
+- [Free Month of Backblaze](https://l.technotim.live/backblaze)
+- [Figma](https://l.technotim.live/figma)
+
+Donating directly:
+
+- [@technotimothystewart](https://l.technotim.live/venmo) on Venmo
+- [@technotimothystewart](https://l.technotim.live/paypal) on PayPal
