@@ -3,11 +3,11 @@ icon: fas fa-handshake
 order: 6
 ---
 
-# 🤝 Help Haotian to Continue Grow !
+# 🤝 Help Haotian Continue to Grow !
 
-Haotian's independent work is carreied out by himself lonely,and this site is a self-hosted web.If you'd like to help Haotian grow faster,consider supporting by one of the following options:
+Haotian's independent work is carried out by himself alone, and this site is self-hosted. If you'd like to help Haotian grow faster, consider supporting him through one of the following options:
 
-You can support me and my work directly:
+You can support Haotian and Haotian's work directly:
 
 - [Shop at Taobao](https://item.taobao.com/item.htm?abbucket=20&id=757057832446&spm=a230r.7195193.1997079397.6.79b73e0bdXJ062)
 - [Visit my Company's Website](https://tsuenergy.com)
